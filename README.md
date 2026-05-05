@@ -101,11 +101,6 @@ python projectvai.py
 * Extracts text from camera frames
 * Reads aloud detected text
 
----
-
-## 📸 Screenshots
-
-(Add screenshots here)
 
 ---
 
